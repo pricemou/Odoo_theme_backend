@@ -1,4 +1,4 @@
-# Odoo 12 thempale
+# Odoo 12 themplate
 
 - changer la couler des element
 Css & Javascript
