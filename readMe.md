@@ -1,4 +1,5 @@
-# Odoo 12 recipe module
+# Odoo 12 thempale
 
-- Register ingredients
-- Create recipes
+- changer la couler des element
+Css & Javascript
+1- https://www.odoo.yenthevg.com/tag/javascript/
